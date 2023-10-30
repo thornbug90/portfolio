@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "Harry Smith",
+  name: "David Hodgson",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,8 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    " As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work\
+     ethic to literally change the world. That's why I'm excited to make a big impact at a high growth company. ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -90,44 +91,44 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "popl.co",
+    skills: ["Shopify, Liquid, JS"],
+    url: "https://github.com/thornbug90",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Besure",
+    skills: ["Google Cloud, Bootstrap, React"],
+    url: "https://github.com/thornbug90",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "ZIKZAK",
+    skills: ["Vue, Nuxt, JS"],
+    url: "https://github.com/thornbug90",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "spacer",
+    skills: ["PHP, jQuery, JS"],
+    url: "https://github.com/thornbug90",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Podio",
+    skills: ["React, Node, CSS"],
+    url: "https://github.com/thornbug90",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "TATTLY",
+    skills: ["Shopify, LazySizes, JS"],
+    url: "https://github.com/thornbug90",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -139,19 +140,19 @@ const miscellaneous = [
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
     name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/thornbug90",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/thornbug90",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/thornbug90",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
@@ -161,7 +162,7 @@ const section5Title = "Get in Touch";
 const contact = {
   pitch:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
+  copyright: "David Hodgson",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it

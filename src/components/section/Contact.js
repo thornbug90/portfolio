@@ -26,18 +26,18 @@ const Contact = () => {
                     <p className="lead">
                         {contact.pitch}        
                     </p>
-                <div className="d-flex justify-content-center align-items-center flex-column">
+                {/* <div className="d-flex justify-content-center align-items-center flex-column">
                 <div className="inline-block">
                     {social.linkedin && <a title="Visit Linkedin profile" rel="noopener noreferrer" target="_blank"  href={social.linkedin}><i className="fab fa-linkedin"></i></a>}
                     {social.github && <a title="Visit Github profile" rel="noopener noreferrer" target="_blank" href={social.github}><i className="fab fa-github"></i></a>}<br/>
                 </div>
                     {social.resume && <a title="Download Resume" href={social.resume} download><i className="fas fa-download"></i></a>}
-                </div>
+                </div> */}
                 </div>
             </div>
             </div>
         </div>
-            <p id="not-dark" className="Copy">2020 © Copyright <strong>{contact.copyright}</strong>. All Rights Reserved</p>
+            <p id="not-dark" className="Copy">2023 © Copyright <strong>{contact.copyright}</strong>. All Rights Reserved</p>
         </div>
     )
     
