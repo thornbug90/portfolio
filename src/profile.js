@@ -20,8 +20,8 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    " As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work\
-     ethic to literally change the world. That's why I'm excited to make a big impact at a high growth company. ",
+    "As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work \
+     ethic to literally change the world. That's why I'm excited to make a big impact at a high growth company.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -161,7 +161,7 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+    "If you wanna get in touch, talk to me about a project collaboration or just say hi, fill up the awesome form or send an email to crazydev0409@gmail.com and ~let's talk.",
   copyright: "David Hodgson",
   contactUrl: "",
 };
